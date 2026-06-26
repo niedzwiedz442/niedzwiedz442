@@ -20,5 +20,5 @@ Hi, I'm Michał (Michael), a begginer developer.
 ---
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TWÓJ_USERNAME]&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[TWÓJ_USERNAME]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niedzwiedz442&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niedzwiedz442&layout=compact&theme=radical)
