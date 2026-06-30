@@ -1,7 +1,7 @@
 **Michał Cholewczyński**
 ---
 
-Building web sites and web applications
+Building websites and web applications
 
 
 ## Tech Stack
