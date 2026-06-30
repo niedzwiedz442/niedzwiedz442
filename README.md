@@ -32,6 +32,6 @@ Building websites and web applications
 
 ## Contact
 
-LinkedIn: [https://linkedin.com/in/your-profile-placeholder](https://www.linkedin.com/in/micha%C5%82-cholewczy%C5%84ski-5b7334368/)
+LinkedIn: [https://linkedin.com/in/MichałCholewczyński](https://www.linkedin.com/in/micha%C5%82-cholewczy%C5%84ski-5b7334368/)
 
 Email: michal@cholewczynski.pl
